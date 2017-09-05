@@ -1,0 +1,15 @@
+{
+  "name": "node-webhook",
+  "version": "1.0.0",
+  "description": "Basic Webhook handler for Kontakt.io Location Engine",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrian Ziobro",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
